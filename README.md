@@ -1,6 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C93DF5&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BC8FF5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Estefan+Rosa;I'm+23+years+old;I'm+from+Brazil;I'm+a+student+of+Software+Engineering+💜;Be+Welcome+😊)](https://git.io/typing-svg)
+<div align="center">
+  <p>🌱 Currently, I'm studying Software Engineering</p>
+  <p>🔭 I am seeking my first job opportunity. My dream is to work in the field of software development.</p>
+</div>
+
+##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stfnrosa&bg_color=0d1117&color=C93DF5&line=b9b0f9&point=C93DF5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -10,11 +16,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stfnrosa&layout=compact&hide_border=true&title_color=C93DF5&text_color=BC8FF5&bg_color=0d1117" />
 </div>
 
-<div align="center"> 
-<a href="rosaa.estefanii/gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/stfnrosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
-
+##
 
 <div align="center">
   <h3>💻 Programming Languages</h3>
@@ -47,8 +49,10 @@
 
 
 <div align="center"> 
-<a href="rosaa.estefanii/gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/stfnrosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <h3>👩 My Contacts: </h3>
+  <p>I am ready to collaborate on innovative projects and share experiences. If you would like to learn more, visit:</p>
+  <a href="rosaa.estefanii/gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/stfnrosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C93DF5&height=120&section=footer"/>
