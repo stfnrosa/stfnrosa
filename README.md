@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BC8FF5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Estefani+Rosa;I'm+23+years+old;I'm+from+Brazil;I'm+a+student+of+Software+Engineering+💜;Be+Welcome+😊)](https://git.io/typing-svg)
 <div align="center">
   <p>🌱 Currently, I'm studying Software Engineering</p>
-  <p>🔭 I am seeking my first job opportunity. My dream is to work in the field of software development.</p>
+  <p>🔭 My dream is to work in the field of software development, focusing on developing innovative AI solutions that can improve efficiency and solve complex problems.</p>
 </div>
 
 ##
