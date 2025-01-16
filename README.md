@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C93DF5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BC8FF5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Estefani+Rosa;I'm+23+years+old;I'm+from+Brazil;I'm+a+student+of+Software+Engineering+💜;Be+Welcome+😊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BC8FF5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Estefani+Rosa;I'm+24+years+old;I'm+from+Brazil;I'm+a+student+of+Software+Engineering+💜;Be+Welcome+😊)](https://git.io/typing-svg)
 <div align="center">
   <p>🌱 Currently, I'm studying Software Engineering</p>
   <p>🔭My dream is to work in the field of software development.</p>
