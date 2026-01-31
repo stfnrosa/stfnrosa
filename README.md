@@ -11,10 +11,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stfnrosa&bg_color=0d1117&color=C93DF5&line=b9b0f9&point=C93DF5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=stfnrosa&show_icons=true&count_private=true&hide_border=true&title_color=C93DF5&icon_color=BC8FF5&text_color=c9d1d9&bg_color=0d1117" alt="Stefan Rosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stfnrosa&layout=compact&hide_border=true&title_color=C93DF5&text_color=BC8FF5&bg_color=0d1117" />
-</div>
+
 
 ##
 
