@@ -48,11 +48,5 @@
 
 
 
-<div align="center"> 
-  <h3>My Contacts: </h3>
-  <p>I am ready to collaborate on innovative projects and share experiences. If you would like to learn more, visit:</p>
-  <a href="rosaa.estefanii/gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/estefani-rosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C93DF5&height=120&section=footer"/>
